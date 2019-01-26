@@ -1,2 +1,2 @@
 # game-of-life
-Game of life Candidate Exercise
+BBC Game of life Candidate Exercise for 2019 Graduate Scheme
