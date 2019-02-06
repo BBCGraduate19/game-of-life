@@ -1,7 +1,15 @@
 # BBC Game of life Candidate Exercise for 2019 Graduate Scheme
 
-Assumptions made
+## Implemented in JavaScript with a HTML5 Interface
+
+
+### Brief Overview/Requirements
 
 
 
-Written in Java using Ecllipse
+
+### Assumptions made
+
+
+
+
