@@ -10,7 +10,7 @@ Implemented using a 2D grid approach with wraparound edges to simulate an infini
 Use HTML file within browser to run the functions.
 
 	1. Creation of arrays to hold a 2d grid data structure. (Size is user-defined)
-	2. Populate grid using a user triggered randomized process or three horizontal live cell seed (Scenario 6)..
+	2. Populate grid using a user triggered randomized process or three horizontal live cell seed (Scenario 6).
 	3.1 A game loop to cycle through the generations 
 	3.2 Within Loop, use the rules provided to birth, destroy or keep cells.
 	3.3 User toggled method of border handling (infinite or dead cell border)
